@@ -21,4 +21,3 @@ This is a fully custom MP3 player project built from scratch as part of **CS 365
 - Custom 3D-printed case
 
   ![MP3 Player](images/MP3-Player.png)
-# Personalized-MP3-Player
