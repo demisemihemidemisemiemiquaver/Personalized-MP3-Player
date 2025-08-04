@@ -14,8 +14,8 @@ This is a fully custom MP3 player project built from scratch as part of **CS 365
 ## Hardware
 
 - [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
-- [DFRobot DF1201S MP3 Player Pro](https://www.dfrobot.com/product-2334.html)
-- 2.0" ST7789 320x240 TFT display
+- [DFRobot DF1201S MP3 Player Pro](www.dfrobot.com/product-2232.html)
+- [2.0" ST7789 320x240 TFT display] (https://www.adafruit.com/product/4311)
 - Tactile pushbuttons (x5)
 - 3.7V LiPo battery (JST-PH)
 - Custom 3D-printed case
