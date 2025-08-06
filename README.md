@@ -1,6 +1,6 @@
 # Personalized MP3 Player
 
-This is a fully custom MP3 player project built from scratch as part of **CS 3651: Prototyping Intelligent Devices** at Georgia Tech. It combines audio playback, interactive controls, and a graphical interface, all powered by embedded C++ on the Adafruit Feather RP2040.
+This is a fully custom MP3 player project built from scratch as part of **CS 3651: Prototyping Intelligent Devices** at Georgia Tech. It combines audio playback, interactive controls, and a graphical interface, all powered by C++ on the Adafruit Feather RP2040.
 
 ## Features
 
